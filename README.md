@@ -22,6 +22,7 @@ Jenkins is up and running.
 Terraform is installed in Jenkins.
 Terraform files already created in your SCM.
 Make sure you have necessary IAM role created with right policy and attached to Jenkins EC2 instance.
+IAM role - AmazonEC2FullAccess, AmazonS32FullAccess, AmazonDynamoDBFullAccess
 </p>
 
 ###
