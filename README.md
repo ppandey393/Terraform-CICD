@@ -27,7 +27,7 @@ IAM role - AmazonEC2FullAccess, AmazonS32FullAccess, AmazonDynamoDBFullAccess
 
 ###
 
-<h2 align="left">I code with Jenkins CICD</h2>
+<h2 align="left">Jenkins CICD</h2>
 
 ###
 
