@@ -10,7 +10,19 @@
 
 ###
 
-<p align="left">✨ Terraform scripts using CI-CD ...<br>📚 Learning ...<br>🎯 Goals: Provisioning resources <br></p>
+<p align="left">✨ Terraform scripts using CI-CD ...<br>
+  
+📚 Jenkins Terraform Integration | How do you integrate Terraform with Jenkins | Automate Infrastructure setup using Terraform and Jenkins | Remote Store in S3 Bucket <br>🎯 Goals: Provisioning resources <br>
+![image](https://github.com/user-attachments/assets/75c700f7-dae1-40cd-af3a-407cd756e5dd)
+
+**Pre-requisites:**
+Create S3 bucket for storing TF state.
+Create dynamo DB table for providing lock capability.
+Jenkins is up and running.
+Terraform is installed in Jenkins.
+Terraform files already created in your SCM.
+Make sure you have necessary IAM role created with right policy and attached to Jenkins EC2 instance.
+</p>
 
 ###
 
